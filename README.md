@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sahan!
 
-<!--
-**sksahan/sksahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics and software enthusiast currently studying BIT and HND. I love working on Arduino, web apps, and automation projects!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: `Java`, `Python`, `C`, `PHP`
+- Web: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`
+- Electronics: `Arduino`, `ESP32`, `Sensor Integration`, `PCB Design`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/your-link) | [Medium](https://medium.com/@yourusername)
+
+---
