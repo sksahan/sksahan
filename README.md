@@ -55,8 +55,8 @@ A user-friendly PHP + MySQL application for finding suitable rental locations fo
 
 ## ✍️ Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon: My Weeding Bot Build Log](https://medium.com/@sksahan)
-- [Coming Soon: Getting Started with ESP32 for IoT](https://medium.com/@sksahan)
+- [Coming Soon: My Weeding Bot Build Log](https://medium.com/@Sahan kaushalya)
+- [Coming Soon: Getting Started with ESP32 for IoT](https://medium.com/@Sahan kaushalya)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -73,7 +73,7 @@ A user-friendly PHP + MySQL application for finding suitable rental locations fo
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-kaushalya-7aa99517a/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sksahan)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Sahan kaushalya)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sk-lab?si=HlExJAIqMDZgrECN)
 
 
